@@ -6,3 +6,5 @@ We have designed the AgriNova Homepage to offer a seamless, intuitive experience
 Map View
 
 Our Map View page delivers a dynamic and user-centric experience, enabling users to discover nearby millers, retailers, and wholesalers with real-time location precision. The map is crafted to ensure that farmers can easily navigate their surroundings, providing them with options to instantly book services right from the map interface. This feature is designed to simplify and accelerate crop distribution and resource management, ensuring that everything you need is just a tap away. With its fluid navigation and responsive design, the Map View makes efficient, modern farming a reality.
+
+"We have developed these two pages and are currently developing the others Pages"
